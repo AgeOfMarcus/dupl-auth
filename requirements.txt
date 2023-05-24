@@ -1,0 +1,8 @@
+Flask
+Flask-SocketIO
+gevent
+imj
+mysql-connector-python
+requests
+python-dotenv
+mjms
